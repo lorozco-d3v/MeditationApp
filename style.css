@@ -80,8 +80,16 @@ video{
     background: #4972a1;
 }
 
+.sound-picker button:nth-child(1):hover{
+    background: #73aff5;
+}
+
 .sound-picker button:nth-child(2){
     background: #a14f49;
+}
+
+.sound-picker button:nth-child(2):hover{
+    background: #e66e65;
 }
 
 .sound-picker button img{
